@@ -5,3 +5,16 @@ trying to become familiar with markdown
 ## Favorite Vacation Spot: The Serene Kerala Backwaters
 
 Kerala, often referred to as **"God's Own Country,"** has captured my heart with its **serene backwaters** and **lush greenery**. The backwaters of Kerala offer a unique and peaceful experience as you glide through the calm waters on **traditional houseboats**. The vibrant culture, delicious cuisine, and the chance to unwind amidst the natural beauty of the region make Kerala a truly unforgettable destination.
+
+---
+
+## Activities at The Serene Kerala Backwaters
+
+1. Houseboat cruise through  backwaters.
+2. Visit local fishing villages and interact with the locals.
+3. Experience the traditional **Kathakali** dance performances.
+
+- **Kerala Sadya**: It is a traditional feast with an array of vegetarian dishes served on a banana leaf
+- **Karimeen Pollichathu**: This is a spiced and marinated pearl spot fish, wrapped in banana leaf and grilled.
+- **Appam with Stew**: Soft, Lacy rice pancakes served with a flavourful cocunut-based stew.
+- **Malabar Biryani**: Fragrant Rice cokked with spices and tender piece of chicken.
