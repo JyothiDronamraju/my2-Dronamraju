@@ -35,3 +35,10 @@ The table covers recommended sports and their benefits, such as basketball for c
 | Hiking         | Enjoy nature and stay active.                   | 3-5 hours      |
 | Swimming       | Low-impact full-body workout.                   | 4-6 hours      |
 | Yoga           | Improves flexibility and reduces stress.        | 2-4 hours      |
+
+---
+
+## Pithy Quotes by Scientists
+
+> “Life is like riding a bicycle. To keep your balance, you must keep moving.” - *Albert Einstein*
+> “Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.” - *Albert Einstein*
