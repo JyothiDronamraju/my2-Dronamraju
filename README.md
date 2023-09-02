@@ -8,11 +8,13 @@ Kerala, often referred to as **"God's Own Country,"** has captured my heart with
 
 ---
 
-## Activities at The Serene Kerala Backwaters
+### Activities at The Serene Kerala Backwaters
 
 1. Houseboat cruise through  backwaters.
 2. Visit local fishing villages and interact with the locals.
 3. Experience the traditional **Kathakali** dance performances.
+
+### List of Famous Dishes
 
 - **Kerala Sadya**: It is a traditional feast with an array of vegetarian dishes served on a banana leaf
 - **Karimeen Pollichathu**: This is a spiced and marinated pearl spot fish, wrapped in banana leaf and grilled.
