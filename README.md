@@ -41,4 +41,5 @@ The table covers recommended sports and their benefits, such as basketball for c
 ## Pithy Quotes by Scientists
 
 > “Life is like riding a bicycle. To keep your balance, you must keep moving.” - *Albert Einstein*
+
 > “Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.” - *Albert Einstein*
