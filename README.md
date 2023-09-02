@@ -20,3 +20,5 @@ Kerala, often referred to as **"God's Own Country,"** has captured my heart with
 - **Karimeen Pollichathu**: This is a spiced and marinated pearl spot fish, wrapped in banana leaf and grilled.
 - **Appam with Stew**: Soft, Lacy rice pancakes served with a flavourful cocunut-based stew.
 - **Malabar Biryani**: Fragrant Rice cokked with spices and tender piece of chicken.
+
+You can learn more about me in [MyStats](MyStats.md).
