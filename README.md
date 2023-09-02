@@ -22,3 +22,16 @@ Kerala, often referred to as **"God's Own Country,"** has captured my heart with
 - **Malabar Biryani**: Fragrant Rice cokked with spices and tender piece of chicken.
 
 You can learn more about me in [MyStats](MyStats.md).
+
+---
+
+## Recommended Sports
+
+The table covers recommended sports and their benefits, such as basketball for cardio, hiking for nature lovers, swimming for a full-body workout, and yoga for stress reduction. It also estimates the weekly time commitment, allowing you to make informed decisions based on your hobbies and fitness goals.
+
+| **Sport Name** | **Recommendation Reason**                       | **Hours per Week** |
+| -------------- | ----------------------------------------------- | -------------- |
+| Basketball     | Great for cardio and teamwork.                  | 5-7 hours      |
+| Hiking         | Enjoy nature and stay active.                   | 3-5 hours      |
+| Swimming       | Low-impact full-body workout.                   | 4-6 hours      |
+| Yoga           | Improves flexibility and reduces stress.        | 2-4 hours      |
