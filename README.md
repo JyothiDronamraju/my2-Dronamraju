@@ -43,24 +43,40 @@ The table covers recommended sports and their benefits, such as basketball for c
 > “Life is like riding a bicycle. To keep your balance, you must keep moving.” - *Albert Einstein*
 
 > “Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.” - *Albert Einstein*
-
 ---
 
-## Code Snippet
-/* Define the "system" font family */
-@font-face {
-  font-family: system-ui;
-  font-style: normal;
-  font-weight: 300;
-  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+### Code Snippet Selection
+
+1. **Code Snippet:** [Typewriter Effect]
+   - [https://css-tricks.com/snippets/css/]
+
+### Relevant Stack Overflow Question
+
+> [How to get Typewriter Effect for your code](https://css-tricks.com/snippets/css/typewriter-effect/)
+
+### CSS-Tricks Snippet
+
+```css
+/* .typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
 }
 
-/* Now, let's apply it on an element */
-body {
-  font-family: "system-ui";
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
 }
 
-
-## Relevant Stack Overflow Question
-
-
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+ */
