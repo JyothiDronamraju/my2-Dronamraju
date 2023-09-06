@@ -47,7 +47,7 @@ The table covers recommended sports and their benefits, such as basketball for c
 
 ### Code Snippet Selection
 
-1. **Code Snippet:** [Typewriter Effect]
+**Code Snippet:** [Typewriter Effect]
    - [https://css-tricks.com/snippets/css/typewriter-effect/]
 
 ### Relevant Stack Overflow Question
