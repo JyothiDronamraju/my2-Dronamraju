@@ -19,7 +19,7 @@ Kerala, often referred to as **"God's Own Country,"** has captured my heart with
 - **Kerala Sadya**: It is a traditional feast with an array of vegetarian dishes served on a banana leaf
 - **Karimeen Pollichathu**: This is a spiced and marinated pearl spot fish, wrapped in banana leaf and grilled.
 - **Appam with Stew**: Soft, Lacy rice pancakes served with a flavourful cocunut-based stew.
-- **Malabar Biryani**: Fragrant Rice cokked with spices and tender piece of chicken.
+- **Malabar Biryani**: Fragrant Rice cooked with spices and tender piece of chicken.
 
 You can learn more about me in [MyStats](MyStats.md).
 
@@ -46,5 +46,31 @@ The table covers recommended sports and their benefits, such as basketball for c
 
 ---
 
-## Code Fencing
+## Code Snippet
+
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+## Relevant Stack Overflow Question
+
 
