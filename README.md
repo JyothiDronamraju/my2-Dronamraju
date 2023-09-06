@@ -48,11 +48,11 @@ The table covers recommended sports and their benefits, such as basketball for c
 ### Code Snippet Selection
 
 1. **Code Snippet:** [Typewriter Effect]
-   - [https://css-tricks.com/snippets/css/]
+   - [https://css-tricks.com/snippets/css/typewriter-effect/]
 
 ### Relevant Stack Overflow Question
 
-> [How to get Typewriter Effect for your code](https://css-tricks.com/snippets/css/typewriter-effect/)
+> [How to create typewriter effect?](https://stackoverflow.com/questions/63282120/how-to-create-typewriter-effect)
 
 ### CSS-Tricks Snippet
 
