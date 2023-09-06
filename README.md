@@ -47,27 +47,18 @@ The table covers recommended sports and their benefits, such as basketball for c
 ---
 
 ## Code Snippet
-.typewriter h1 {
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  margin: 0 auto;
-  letter-spacing: .15em;
-  animation:
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+/* Define the "system" font family */
+@font-face {
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
 }
 
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+/* Now, let's apply it on an element */
+body {
+  font-family: "system-ui";
 }
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-
 
 
 ## Relevant Stack Overflow Question
